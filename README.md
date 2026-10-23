@@ -1,2 +1,13 @@
-# avengers-ai-chatbot
-Avengers AI Command Center is an AI-powered chatbot for Q&amp;A, text summarization, classification, prompt engineering, and FAQs, built using Gemini API and Gradio with a custom Avengers-inspired interface.
+# Avengers AI Command Center
+
+AI chatbot built using Python, Gradio, and Google Gemini.
+
+## Features
+- Question and Answer
+- Text Summarization
+- Text Classification
+- Prompt Engineering
+- FAQ Assistant
+
+## Deployment
+Hosted using Render.
