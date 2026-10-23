@@ -1,5 +1,4 @@
 
-%pip -q install -U gradio google-genai
 
 import os
 import getpass
